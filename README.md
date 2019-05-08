@@ -11,7 +11,7 @@ This repository will be enriched over time with more visualizations and more dis
 ## Available visualizations
 ### Mathematics
 
-- [The central limit theorem](https://mybinder.org/v2/gh/giovannipizzi/educational-scientific-visualizations/master?urlpath=%2Fapps%2Fcentral-limit-theorem%2FCentral%20limit%20theorem.ipynb)
+- [The central limit theorem](https://mybinder.org/v2/gh/giovannipizzi/educational-scientific-visualizations/master?urlpath=%2Fapps%2Fcentral-limit-theorem%2FCentral%20limit%20theorem.ipynb) <a href="https://mybinder.org/v2/gh/giovannipizzi/educational-scientific-visualizations/master?urlpath=%2Fapps%2Fcentral-limit-theorem%2FCentral%20limit%20theorem.ipynb"><img src="https://mybinder.org/badge.svg"></img></a>
 
 ## Technical notes on the tools used
 To allow for interactive visualizations, a number of tools are used, in particular:
